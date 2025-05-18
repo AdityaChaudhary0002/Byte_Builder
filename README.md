@@ -4,14 +4,9 @@ It got 3 servers all hosted differently, one for adding questions( using Django,
 ## Backend
 
 ### 1. Featured Codes and Adding,deleting new codes server
-Repo: https://github.com/Ashish0o7/chat-code-server/tree/master
-
+Repo: https://github.com/AdityaChaudhary0002/chat-code-server
 ### 2. Collaboration and chatting
-Repo: https://github.com/Ashish0o7/chat-code-server/tree/main
-
-### 3. Adding questions
-Repo: https://github.com/Ashish0o7/add_codes_server
-( I've discontinued it, and for more robust process, merged these operations with Featured codes)
+Repo: https://github.com/AdityaChaudhary0002/collab-compile
 
 
 # Home Page
@@ -60,7 +55,7 @@ Integrates Redis for efficient data handling, significantly improving system per
 1. Clone the repository:
    
 ```
-git clone https://github.com/Ashish0o7/code-editor.git
+git clone https://github.com/AdityaChaudhary0002/Byte_Builder
 ```
 
 
@@ -83,10 +78,10 @@ npm run start
 1. Clone these repositories seperately
 
 ###  Featured Codes and Adding,deleting new codes server
-Repo: https://github.com/Ashish0o7/chat-code-server/tree/master
+Repo: https://github.com/AdityaChaudhary0002/chat-code-server
 
 ###  Collaboration and chatting
-Repo: https://github.com/Ashish0o7/chat-code-server/tree/main
+Repo: https://github.com/AdityaChaudhary0002/collab-compile
 
 
 2. Install dependencies for both
